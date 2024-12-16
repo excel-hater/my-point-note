@@ -1,0 +1,16 @@
+html {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  font-size: 10px;
+  background: #111;
+}
+
+body {
+  width: 50rem;
+  position: relative;
+  background: #d88;
+  margin: 0 auto;
+  border-left: 2px solid #d33;
+  border-right: 2px solid #d33;
+}
